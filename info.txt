@@ -1,0 +1,41 @@
+
+// Machine Coding :- 
+
+* Planning the application  and time managemnt is very important in machine coding round of interveiw 
+
+* Requirment qualifiation
+  - Features  ( 5min )
+  - Tech-Stack( Justification ) ( 5 min )
+      - redux
+      - Tailwind
+      - formik
+      - routing
+      - Bundler
+      - Testing libary
+  - Planning          (5 min )
+    - UI design or low level design
+    - figure out pages
+    - List down the components
+
+
+* Head
+  Body
+   Sidebar
+     MenuItems
+   MainContainer
+    ButtonsList
+    VideoContainer
+     videoCar
+
+
+
+Ways to Setup the application :-
+
+- npx create-react-app rumble
+
+- npm install -D tailwindcss
+  npw configure it using the websote
+
+- Create component folder 
+   - create Head
+   
